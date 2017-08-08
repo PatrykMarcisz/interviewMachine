@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PdfIntegrator/PdfIntegrator.iml" filepath="$PROJECT_DIR$/PdfIntegrator/PdfIntegrator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/interviewMachine.iml" filepath="$PROJECT_DIR$/.idea/interviewMachine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaTPoint/javatpointIntegrator.iml" filepath="$PROJECT_DIR$/JavaTPoint/javatpointIntegrator.iml" />
+    </modules>
+  </component>
+</project>
