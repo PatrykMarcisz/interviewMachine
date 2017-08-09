@@ -27,23 +27,19 @@ public class Main {
     }
 }
 
-public void getHyperlinks(){
-
-}
 
 /** nadpisanie klasy pdfTextStripper, modyfikujac jej zachowanie podczas uzycia getText() */
 
 class CustomPDFTextStripper extends PDFTextStripper{
 
-    public CustomPDFTextStripper() throws IOException {
-
-    }
-
     public void getHyperlinks(){
 
     }
 
-    public void
+
+    public CustomPDFTextStripper() throws IOException {
+
+    }
 
     /**
      * Override the default functionality of PDFTextStripper.
